@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "outDir": "dist/tsc",
+    "moduleResolution": "nodenext",
+    "experimentalDecorators": true
+  },
+  "reflection": true
+}
